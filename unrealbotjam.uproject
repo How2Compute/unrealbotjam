@@ -2,19 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.11",
 	"Category": "",
-	"Description": "",
-	"Modules": [
-		{
-			"Name": "unrealbotjam",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
-	"Plugins": [
-		{
-			"Name": "VictoryBPLibrary",
-			"Enabled": false,
-			"MarketplaceURL": "http://www.ue4code.com"
-		}
-	]
+	"Description": ""
 }
