@@ -1,1 +1,2 @@
 This is the project for the unreal slacker's unrealbot gamejam!
+I hope you will enjoy this repo!
