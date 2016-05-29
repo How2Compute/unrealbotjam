@@ -1,1 +1,2 @@
-Discription should be added on the way!
+This is the project for the unreal slacker's unrealbot gamejam!
+I hope you will enjoy this repo!
